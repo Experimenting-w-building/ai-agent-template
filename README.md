@@ -1,4 +1,10 @@
-# cognitivedrift
+# DeVitalik Test Run V-1
+
+An AI Agent customized by MrMinter
+
+Token: 2Hg6d5bF5NgY6ii8Km1MkPP4YJ2YBLWkaywbiDbnpump
+
+## based on cognitivedrift
 
 An AI Agent built by Nader
 
